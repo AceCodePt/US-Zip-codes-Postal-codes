@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS "us" (
-  "zipcode" char(5) NOT NULL PRIMARY KEY,
+  "zipcode" char(5) NOT NULL,
   "city" varchar(50) NOT NULL,
   "state" varchar(50),
   "state_code" char(2) NOT NULL,
