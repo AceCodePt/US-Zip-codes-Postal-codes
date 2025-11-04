@@ -559,7 +559,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('36765', 'Newbern', 'Alabama', 'AL', 'Hale', 32.55150, -87.56150),
 ('36776', 'Sawyerville', 'Alabama', 'AL', 'Hale', 32.75780, -87.74020),
 ('36310', 'Abbeville', 'Alabama', 'AL', 'Henry', 31.57550, -85.27900),
-('36345', 'Headland', 'Alabama', 'AL', 'Henry', 31.35340, -85.33230, 4);
+('36345', 'Headland', 'Alabama', 'AL', 'Henry', 31.35340, -85.33230);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('36353', 'Newville', 'Alabama', 'AL', 'Henry', 31.44030, -85.32870),
 ('36373', 'Shorterville', 'Alabama', 'AL', 'Henry', 31.50100, -85.11350),
@@ -1134,7 +1134,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('72715', 'Bella Vista', 'Arkansas', 'AR', 'Benton', 36.46770, -94.32090),
 ('72716', 'Bentonville', 'Arkansas', 'AR', 'Benton', 36.37290, -94.20880),
 ('72718', 'Cave Springs', 'Arkansas', 'AR', 'Benton', 36.27380, -94.21830),
-('72719', 'Centerton', 'Arkansas', 'AR', 'Benton', 36.36700, -94.30890, 4);
+('72719', 'Centerton', 'Arkansas', 'AR', 'Benton', 36.36700, -94.30890);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('72722', 'Decatur', 'Arkansas', 'AR', 'Benton', 36.33470, -94.45340),
 ('72732', 'Garfield', 'Arkansas', 'AR', 'Benton', 36.42880, -93.95120),
@@ -1702,7 +1702,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('72936', 'Greenwood', 'Arkansas', 'AR', 'Sebastian', 35.19550, -94.25300),
 ('72937', 'Hackett', 'Arkansas', 'AR', 'Sebastian', 35.19450, -94.39830),
 ('72938', 'Hartford', 'Arkansas', 'AR', 'Sebastian', 35.02220, -94.38190),
-('72940', 'Huntington', 'Arkansas', 'AR', 'Sebastian', 35.09630, -94.33130, 4);
+('72940', 'Huntington', 'Arkansas', 'AR', 'Sebastian', 35.09630, -94.33130);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('72941', 'Lavaca', 'Arkansas', 'AR', 'Sebastian', 35.36610, -94.19170),
 ('72945', 'Midland', 'Arkansas', 'AR', 'Sebastian', 35.09320, -94.35330),
@@ -2254,7 +2254,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('85121', 'Bapchule', 'Arizona', 'AZ', 'Pinal County', 33.14050, -111.91280),
 ('85122', 'Casa Grande', 'Arizona', 'AZ', 'Pinal County', 32.89050, -111.75400),
 ('85123', 'Arizona City', 'Arizona', 'AZ', 'Pinal County', 32.75590, -111.67100),
-('85128', 'Coolidge', 'Arizona', 'AZ', 'Pinal County', 32.95740, -111.53440, 4);
+('85128', 'Coolidge', 'Arizona', 'AZ', 'Pinal County', 32.95740, -111.53440);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('85130', 'Casa Grande', 'Arizona', 'AZ', 'Pinal County', 32.81510, -111.70540),
 ('85131', 'Eloy', 'Arizona', 'AZ', 'Pinal County', 32.75090, -111.58330),
@@ -2785,7 +2785,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('93527', 'Inyokern', 'California', 'CA', 'Kern County', 35.63970, -117.85700),
 ('93528', 'Johannesburg', 'California', 'CA', 'Kern County', 35.37080, -117.64270),
 ('93531', 'Keene', 'California', 'CA', 'Kern County', 35.23750, -118.60760),
-('93554', 'Randsburg', 'California', 'CA', 'Kern County', 35.38660, -117.71590, 4);
+('93554', 'Randsburg', 'California', 'CA', 'Kern County', 35.38660, -117.71590);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('93555', 'Ridgecrest', 'California', 'CA', 'Kern County', 35.62250, -117.67090),
 ('93556', 'Ridgecrest', 'California', 'CA', 'Kern County', 35.62250, -117.67090),
@@ -3275,7 +3275,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('91714', 'City Of Industry', 'California', 'CA', 'Los Angeles County', 34.01970, -117.95870),
 ('91715', 'City Of Industry', 'California', 'CA', 'Los Angeles County', 34.01970, -117.95870),
 ('91716', 'City Of Industry', 'California', 'CA', 'Los Angeles County', 34.01970, -117.95870),
-('91722', 'Covina', 'California', 'CA', 'Los Angeles County', 34.09720, -117.90650, 4);
+('91722', 'Covina', 'California', 'CA', 'Los Angeles County', 34.09720, -117.90650);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('91723', 'Covina', 'California', 'CA', 'Los Angeles County', 34.08600, -117.88430),
 ('91724', 'Covina', 'California', 'CA', 'Los Angeles County', 34.09380, -117.85600),
@@ -3798,7 +3798,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('92570', 'Perris', 'California', 'CA', 'Riverside County', 33.78520, -117.31660),
 ('92571', 'Perris', 'California', 'CA', 'Riverside County', 33.81100, -117.21800),
 ('92572', 'Perris', 'California', 'CA', 'Riverside County', 33.78250, -117.22860),
-('92581', 'San Jacinto', 'California', 'CA', 'Riverside County', 33.78390, -116.95860, 4);
+('92581', 'San Jacinto', 'California', 'CA', 'Riverside County', 33.78390, -116.95860);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('92582', 'San Jacinto', 'California', 'CA', 'Riverside County', 33.78830, -116.98190),
 ('92583', 'San Jacinto', 'California', 'CA', 'Riverside County', 33.79670, -116.93240),
@@ -4283,7 +4283,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('94124', 'San Francisco', 'California', 'CA', 'City and County of San Francisco', 37.73090, -122.38860),
 ('94125', 'San Francisco', 'California', 'CA', 'City and County of San Francisco', 37.77490, -122.41940),
 ('94126', 'San Francisco', 'California', 'CA', 'City and County of San Francisco', 37.77490, -122.41940),
-('94127', 'San Francisco', 'California', 'CA', 'City and County of San Francisco', 37.73540, -122.45710, 4);
+('94127', 'San Francisco', 'California', 'CA', 'City and County of San Francisco', 37.73540, -122.45710);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('94129', 'San Francisco', 'California', 'CA', 'City and County of San Francisco', 37.80050, -122.46500),
 ('94130', 'San Francisco', 'California', 'CA', 'City and County of San Francisco', 37.82310, -122.36930),
@@ -4804,7 +4804,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('93256', 'Pixley', 'California', 'CA', 'Tulare County', 35.95530, -119.25640),
 ('93257', 'Porterville', 'California', 'CA', 'Tulare County', 36.06860, -119.03150),
 ('93258', 'Porterville', 'California', 'CA', 'Tulare County', 36.03310, -119.00730),
-('93260', 'Posey', 'California', 'CA', 'Tulare County', 35.81350, -118.66430, 4);
+('93260', 'Posey', 'California', 'CA', 'Tulare County', 35.81350, -118.66430);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('93261', 'Richgrove', 'California', 'CA', 'Tulare County', 35.80500, -119.13150),
 ('93262', 'Sequoia National Park', 'California', 'CA', 'Tulare County', 36.60070, -118.71100),
@@ -5346,7 +5346,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('80532', 'Glen Haven', 'Colorado', 'CO', 'Larimer', 40.45780, -105.44700),
 ('80535', 'Laporte', 'Colorado', 'CO', 'Larimer', 40.63470, -105.14880),
 ('80536', 'Livermore', 'Colorado', 'CO', 'Larimer', 40.87010, -105.37660),
-('80537', 'Loveland', 'Colorado', 'CO', 'Larimer', 40.38490, -105.09160, 4);
+('80537', 'Loveland', 'Colorado', 'CO', 'Larimer', 40.38490, -105.09160);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('80538', 'Loveland', 'Colorado', 'CO', 'Larimer', 40.42620, -105.09000),
 ('80539', 'Loveland', 'Colorado', 'CO', 'Larimer', 40.39780, -105.07500),
@@ -5877,7 +5877,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('06518', 'Hamden', 'Connecticut', 'CT', 'New Haven County', 41.40970, -72.91100),
 ('06519', 'New Haven', 'Connecticut', 'CT', 'New Haven County', 41.29630, -72.93730),
 ('06520', 'New Haven', 'Connecticut', 'CT', 'New Haven County', 41.30820, -72.92820),
-('06521', 'New Haven', 'Connecticut', 'CT', 'New Haven County', 41.30820, -72.92820, 4);
+('06521', 'New Haven', 'Connecticut', 'CT', 'New Haven County', 41.30820, -72.92820);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('06524', 'Bethany', 'Connecticut', 'CT', 'New Haven County', 41.42620, -73.00070),
 ('06525', 'Woodbridge', 'Connecticut', 'CT', 'New Haven County', 41.35170, -73.01390),
@@ -6348,7 +6348,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('19893', 'Wilmington', 'Delaware', 'DE', 'New Castle', 39.74590, -75.54660),
 ('19894', 'Wilmington', 'Delaware', 'DE', 'New Castle', 39.74590, -75.54660),
 ('19895', 'Wilmington', 'Delaware', 'DE', 'New Castle', 39.74590, -75.54660),
-('19896', 'Wilmington', 'Delaware', 'DE', 'New Castle', 39.56450, -75.59700, 4);
+('19896', 'Wilmington', 'Delaware', 'DE', 'New Castle', 39.56450, -75.59700);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('19897', 'Wilmington', 'Delaware', 'DE', 'New Castle', 39.56450, -75.59700),
 ('19898', 'Wilmington', 'Delaware', 'DE', 'New Castle', 39.74590, -75.54660),
@@ -6895,7 +6895,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('33673', 'Tampa', 'Florida', 'FL', 'Hillsborough County', 27.87200, -82.43880),
 ('33674', 'Tampa', 'Florida', 'FL', 'Hillsborough County', 27.87200, -82.43880),
 ('33675', 'Tampa', 'Florida', 'FL', 'Hillsborough County', 27.87200, -82.43880),
-('33677', 'Tampa', 'Florida', 'FL', 'Hillsborough County', 27.87200, -82.43880, 4);
+('33677', 'Tampa', 'Florida', 'FL', 'Hillsborough County', 27.87200, -82.43880);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('33679', 'Tampa', 'Florida', 'FL', 'Hillsborough County', 27.87200, -82.43880),
 ('33680', 'Tampa', 'Florida', 'FL', 'Hillsborough County', 27.87200, -82.43880),
@@ -7443,7 +7443,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('33436', 'Boynton Beach', 'Florida', 'FL', 'Palm Beach County', 26.53540, -80.11240),
 ('33437', 'Boynton Beach', 'Florida', 'FL', 'Palm Beach County', 26.53120, -80.14180),
 ('33438', 'Canal Point', 'Florida', 'FL', 'Palm Beach County', 26.85920, -80.63370),
-('33444', 'Delray Beach', 'Florida', 'FL', 'Palm Beach County', 26.45640, -80.07930, 4);
+('33444', 'Delray Beach', 'Florida', 'FL', 'Palm Beach County', 26.45640, -80.07930);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('33445', 'Delray Beach', 'Florida', 'FL', 'Palm Beach County', 26.45640, -80.10540),
 ('33446', 'Delray Beach', 'Florida', 'FL', 'Palm Beach County', 26.45170, -80.15800),
@@ -7990,7 +7990,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('31402', 'Savannah', 'Georgia', 'GA', 'Chatham', 32.08350, -81.09980),
 ('31403', 'Savannah', 'Georgia', 'GA', 'Chatham', 31.97140, -81.07160),
 ('31404', 'Savannah', 'Georgia', 'GA', 'Chatham', 32.05430, -81.04920),
-('31405', 'Savannah', 'Georgia', 'GA', 'Chatham', 32.03910, -81.12420, 4);
+('31405', 'Savannah', 'Georgia', 'GA', 'Chatham', 32.03910, -81.12420);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('31406', 'Savannah', 'Georgia', 'GA', 'Chatham', 31.98900, -81.09790),
 ('31407', 'Savannah', 'Georgia', 'GA', 'Chatham', 32.16720, -81.19990),
@@ -8559,7 +8559,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('30470', 'Tarrytown', 'Georgia', 'GA', 'Montgomery', 32.31880, -82.55930),
 ('30473', 'Uvalda', 'Georgia', 'GA', 'Montgomery', 32.04830, -82.50890),
 ('30623', 'Bostwick', 'Georgia', 'GA', 'Morgan', 33.73730, -83.51430),
-('30625', 'Buckhead', 'Georgia', 'GA', 'Morgan', 33.53680, -83.34350, 4);
+('30625', 'Buckhead', 'Georgia', 'GA', 'Morgan', 33.53680, -83.34350);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('30645', 'High Shoals', 'Georgia', 'GA', 'Morgan', 33.80130, -83.51640),
 ('30650', 'Madison', 'Georgia', 'GA', 'Morgan', 33.59470, -83.46180),
@@ -9145,7 +9145,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('52043', 'Elkader', 'Iowa', 'IA', 'Clayton', 42.84960, -91.41430),
 ('52044', 'Elkport', 'Iowa', 'IA', 'Clayton', 42.76240, -91.32030),
 ('52047', 'Farmersburg', 'Iowa', 'IA', 'Clayton', 42.95220, -91.33900),
-('52048', 'Garber', 'Iowa', 'IA', 'Clayton', 42.74530, -91.25930, 4);
+('52048', 'Garber', 'Iowa', 'IA', 'Clayton', 42.74530, -91.25930);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('52049', 'Garnavillo', 'Iowa', 'IA', 'Clayton', 42.87620, -91.21560),
 ('52052', 'Guttenberg', 'Iowa', 'IA', 'Clayton', 42.75940, -91.11900),
@@ -9744,7 +9744,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('50359', 'Des Moines', 'Iowa', 'IA', 'Polk County', 41.67270, -93.57220),
 ('50360', 'Des Moines', 'Iowa', 'IA', 'Polk County', 41.67270, -93.57220),
 ('50361', 'Des Moines', 'Iowa', 'IA', 'Polk County', 41.67270, -93.57220),
-('50362', 'Des Moines', 'Iowa', 'IA', 'Polk County', 41.67270, -93.57220, 4);
+('50362', 'Des Moines', 'Iowa', 'IA', 'Polk County', 41.67270, -93.57220);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('50363', 'Des Moines', 'Iowa', 'IA', 'Polk County', 41.67270, -93.57220),
 ('50364', 'Des Moines', 'Iowa', 'IA', 'Polk County', 41.67270, -93.57220),
@@ -10337,7 +10337,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('62305', 'Quincy', 'Illinois', 'IL', 'Adams', 39.96010, -91.30260),
 ('62306', 'Quincy', 'Illinois', 'IL', 'Adams', 39.93560, -91.40990),
 ('62320', 'Camp Point', 'Illinois', 'IL', 'Adams', 40.02930, -91.07690),
-('62324', 'Clayton', 'Illinois', 'IL', 'Adams', 40.01330, -90.95540, 4);
+('62324', 'Clayton', 'Illinois', 'IL', 'Adams', 40.01330, -90.95540);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('62325', 'Coatsburg', 'Illinois', 'IL', 'Adams', 40.05540, -91.17470),
 ('62338', 'Fowler', 'Illinois', 'IL', 'Adams', 39.99250, -91.24520),
@@ -10889,7 +10889,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('62979', 'Ridgway', 'Illinois', 'IL', 'Gallatin', 37.80420, -88.26120),
 ('62984', 'Shawneetown', 'Illinois', 'IL', 'Gallatin', 37.71320, -88.17850),
 ('62016', 'Carrollton', 'Illinois', 'IL', 'Greene', 39.30090, -90.40920),
-('62027', 'Eldred', 'Illinois', 'IL', 'Greene', 39.28360, -90.53290, 4);
+('62027', 'Eldred', 'Illinois', 'IL', 'Greene', 39.28360, -90.53290);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('62044', 'Greenfield', 'Illinois', 'IL', 'Greene', 39.34910, -90.20890),
 ('62050', 'Hillview', 'Illinois', 'IL', 'Greene', 39.46740, -90.51280),
@@ -11456,7 +11456,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('61517', 'Brimfield', 'Illinois', 'IL', 'Peoria', 40.84070, -89.89700),
 ('61523', 'Chillicothe', 'Illinois', 'IL', 'Peoria', 40.90130, -89.50680),
 ('61525', 'Dunlap', 'Illinois', 'IL', 'Peoria', 40.84440, -89.63970),
-('61526', 'Edelstein', 'Illinois', 'IL', 'Peoria', 40.94540, -89.58580, 4);
+('61526', 'Edelstein', 'Illinois', 'IL', 'Peoria', 40.94540, -89.58580);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('61528', 'Edwards', 'Illinois', 'IL', 'Peoria', 40.77900, -89.72300),
 ('61529', 'Elmwood', 'Illinois', 'IL', 'Peoria', 40.77260, -89.92890),
@@ -12014,7 +12014,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('46947', 'Logansport', 'Indiana', 'IN', 'Cass', 40.76040, -86.35990),
 ('46950', 'Lucerne', 'Indiana', 'IN', 'Cass', 40.86140, -86.40770),
 ('46961', 'New Waverly', 'Indiana', 'IN', 'Cass', 40.76210, -86.19360),
-('46967', 'Onward', 'Indiana', 'IN', 'Cass', 40.69470, -86.19510, 4);
+('46967', 'Onward', 'Indiana', 'IN', 'Cass', 40.69470, -86.19510);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('46978', 'Royal Center', 'Indiana', 'IN', 'Cass', 40.86450, -86.50780),
 ('46988', 'Twelve Mile', 'Indiana', 'IN', 'Cass', 40.85470, -86.21260),
@@ -12580,7 +12580,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('47862', 'Montezuma', 'Indiana', 'IN', 'Parke', 39.79610, -87.36070),
 ('47872', 'Rockville', 'Indiana', 'IN', 'Parke', 39.76820, -87.19780),
 ('47874', 'Rosedale', 'Indiana', 'IN', 'Parke', 39.62390, -87.30860),
-('47514', 'Branchville', 'Indiana', 'IN', 'Perry', 38.15720, -86.58590, 4);
+('47514', 'Branchville', 'Indiana', 'IN', 'Perry', 38.15720, -86.58590);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('47515', 'Bristow', 'Indiana', 'IN', 'Perry', 38.19810, -86.68210),
 ('47520', 'Cannelton', 'Indiana', 'IN', 'Perry', 37.94950, -86.71560),
@@ -13154,7 +13154,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('66061', 'Olathe', 'Kansas', 'KS', 'Johnson', 38.88650, -94.82040),
 ('66062', 'Olathe', 'Kansas', 'KS', 'Johnson', 38.87330, -94.77520),
 ('66063', 'Olathe', 'Kansas', 'KS', 'Johnson', 38.89990, -94.83200),
-('66083', 'Spring Hill', 'Kansas', 'KS', 'Johnson', 38.76310, -94.82460, 4);
+('66083', 'Spring Hill', 'Kansas', 'KS', 'Johnson', 38.76310, -94.82460);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('66085', 'Stilwell', 'Kansas', 'KS', 'Johnson', 38.79020, -94.66430),
 ('66201', 'Shawnee Mission', 'Kansas', 'KS', 'Johnson', 39.00780, -94.67950),
@@ -13731,7 +13731,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('42273', 'Rochester', 'Kentucky', 'KY', 'Butler', 37.20480, -86.85920),
 ('42288', 'Woodbury', 'Kentucky', 'KY', 'Butler', 37.18340, -86.63390),
 ('42411', 'Fredonia', 'Kentucky', 'KY', 'Caldwell', 37.21300, -88.01120),
-('42445', 'Princeton', 'Kentucky', 'KY', 'Caldwell', 37.11510, -87.86320, 4);
+('42445', 'Princeton', 'Kentucky', 'KY', 'Caldwell', 37.11510, -87.86320);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('42020', 'Almo', 'Kentucky', 'KY', 'Calloway', 36.69230, -88.29290),
 ('42036', 'Dexter', 'Kentucky', 'KY', 'Calloway', 36.71550, -88.23600),
@@ -14293,7 +14293,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('42372', 'Sacramento', 'Kentucky', 'KY', 'McLean', 37.41770, -87.27360),
 ('40385', 'Waco', 'Kentucky', 'KY', 'Madison', 37.74260, -84.14410),
 ('40403', 'Berea', 'Kentucky', 'KY', 'Madison', 37.57990, -84.27490),
-('40404', 'Berea', 'Kentucky', 'KY', 'Madison', 37.71640, -84.29970, 4);
+('40404', 'Berea', 'Kentucky', 'KY', 'Madison', 37.71640, -84.29970);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('40405', 'Bighill', 'Kentucky', 'KY', 'Madison', 37.55450, -84.20830),
 ('40475', 'Richmond', 'Kentucky', 'KY', 'Madison', 37.75460, -84.29550),
@@ -14841,7 +14841,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('70757', 'Maringouin', 'Louisiana', 'LA', 'Iberville', 30.46260, -91.50990),
 ('70764', 'Plaquemine', 'Louisiana', 'LA', 'Iberville', 30.26840, -91.25240),
 ('70765', 'Plaquemine', 'Louisiana', 'LA', 'Iberville', 30.28910, -91.23430),
-('70772', 'Rosedale', 'Louisiana', 'LA', 'Iberville', 30.44080, -91.45620, 4);
+('70772', 'Rosedale', 'Louisiana', 'LA', 'Iberville', 30.44080, -91.45620);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('70776', 'Saint Gabriel', 'Louisiana', 'LA', 'Iberville', 30.25280, -91.08570),
 ('70780', 'Sunshine', 'Louisiana', 'LA', 'Iberville', 30.29820, -91.17990),
@@ -15376,7 +15376,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('01255', 'Sandisfield', 'Massachusetts', 'MA', 'Berkshire', 42.10940, -73.11630),
 ('01256', 'Savoy', 'Massachusetts', 'MA', 'Berkshire', 42.57700, -73.02330),
 ('01257', 'Sheffield', 'Massachusetts', 'MA', 'Berkshire', 42.10010, -73.36110),
-('01258', 'South Egremont', 'Massachusetts', 'MA', 'Berkshire', 42.10120, -73.45660, 4);
+('01258', 'South Egremont', 'Massachusetts', 'MA', 'Berkshire', 42.10120, -73.45660);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('01259', 'Southfield', 'Massachusetts', 'MA', 'Berkshire', 42.07800, -73.26090),
 ('01260', 'South Lee', 'Massachusetts', 'MA', 'Berkshire', 42.27790, -73.27730),
@@ -15887,7 +15887,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('01083', 'Warren', 'Massachusetts', 'MA', 'Worcester County', 42.20400, -72.19940),
 ('01092', 'West Warren', 'Massachusetts', 'MA', 'Worcester County', 42.20290, -72.22900),
 ('01094', 'Wheelwright', 'Massachusetts', 'MA', 'Worcester County', 42.35820, -72.14080),
-('01331', 'Athol', 'Massachusetts', 'MA', 'Worcester County', 42.59590, -72.22670, 4);
+('01331', 'Athol', 'Massachusetts', 'MA', 'Worcester County', 42.59590, -72.22670);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('01366', 'Petersham', 'Massachusetts', 'MA', 'Worcester County', 42.48980, -72.18930),
 ('01368', 'Royalston', 'Massachusetts', 'MA', 'Worcester County', 42.67220, -72.19640),
@@ -16402,7 +16402,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('20753', 'District Heights', 'Maryland', 'MD', 'Prince George''s County', 38.83360, -76.87770),
 ('20757', 'Temple Hills', 'Maryland', 'MD', 'Prince George''s County', 38.81400, -76.94550),
 ('20762', 'Andrews Air Force Base', 'Maryland', 'MD', 'Prince George''s County', 38.80620, -76.87560),
-('20768', 'Greenbelt', 'Maryland', 'MD', 'Prince George''s County', 39.00460, -76.87550, 4);
+('20768', 'Greenbelt', 'Maryland', 'MD', 'Prince George''s County', 39.00460, -76.87550);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('20769', 'Glenn Dale', 'Maryland', 'MD', 'Prince George''s County', 38.97660, -76.80530),
 ('20770', 'Greenbelt', 'Maryland', 'MD', 'Prince George''s County', 38.99960, -76.88400),
@@ -16957,7 +16957,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('04924', 'Canaan', 'Maine', 'ME', 'Somerset', 44.74500, -69.54980),
 ('04925', 'Caratunk', 'Maine', 'ME', 'Somerset', 45.24100, -69.93860),
 ('04929', 'Detroit', 'Maine', 'ME', 'Somerset', 44.76150, -69.32270),
-('04937', 'Fairfield', 'Maine', 'ME', 'Somerset', 44.64630, -69.68020, 4);
+('04937', 'Fairfield', 'Maine', 'ME', 'Somerset', 44.64630, -69.68020);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('04942', 'Harmony', 'Maine', 'ME', 'Somerset', 44.97300, -69.54810),
 ('04943', 'Hartland', 'Maine', 'ME', 'Somerset', 44.87820, -69.47180),
@@ -17520,7 +17520,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('49283', 'Spring Arbor', 'Michigan', 'MI', 'Jackson', 42.20690, -84.55010),
 ('49284', 'Springport', 'Michigan', 'MI', 'Jackson', 42.38050, -84.70390),
 ('49001', 'Kalamazoo', 'Michigan', 'MI', 'Kalamazoo', 42.27360, -85.54570),
-('49002', 'Portage', 'Michigan', 'MI', 'Kalamazoo', 42.19380, -85.56390, 4);
+('49002', 'Portage', 'Michigan', 'MI', 'Kalamazoo', 42.19380, -85.56390);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('49003', 'Kalamazoo', 'Michigan', 'MI', 'Kalamazoo', 42.24540, -85.52990),
 ('49004', 'Kalamazoo', 'Michigan', 'MI', 'Kalamazoo', 42.35180, -85.56210),
@@ -18069,7 +18069,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('48472', 'Snover', 'Michigan', 'MI', 'Sanilac', 43.48860, -82.93010),
 ('49817', 'Cooks', 'Michigan', 'MI', 'Schoolcraft', 45.89970, -86.53070),
 ('49836', 'Germfask', 'Michigan', 'MI', 'Schoolcraft', 46.23630, -85.91590),
-('49840', 'Gulliver', 'Michigan', 'MI', 'Schoolcraft', 46.01150, -86.02140, 4);
+('49840', 'Gulliver', 'Michigan', 'MI', 'Schoolcraft', 46.01150, -86.02140);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('49854', 'Manistique', 'Michigan', 'MI', 'Schoolcraft', 46.00620, -86.25550),
 ('49883', 'Seney', 'Michigan', 'MI', 'Schoolcraft', 46.38800, -85.97080),
@@ -18612,7 +18612,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('55598', 'Loretto', 'Minnesota', 'MN', 'Hennepin County', 45.01590, -93.47190),
 ('55599', 'Loretto', 'Minnesota', 'MN', 'Hennepin County', 45.01590, -93.47190),
 ('55919', 'Brownsville', 'Minnesota', 'MN', 'Houston', 43.67070, -91.30120),
-('55921', 'Caledonia', 'Minnesota', 'MN', 'Houston', 43.62210, -91.48370, 4);
+('55921', 'Caledonia', 'Minnesota', 'MN', 'Houston', 43.62210, -91.48370);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('55931', 'Eitzen', 'Minnesota', 'MN', 'Houston', 43.50840, -91.46320),
 ('55941', 'Hokah', 'Minnesota', 'MN', 'Houston', 43.75090, -91.34550),
@@ -19170,7 +19170,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('55055', 'Newport', 'Minnesota', 'MN', 'Washington', 44.87250, -92.99860),
 ('55071', 'Saint Paul Park', 'Minnesota', 'MN', 'Washington', 44.83440, -92.98730),
 ('55073', 'Scandia', 'Minnesota', 'MN', 'Washington', 45.26970, -92.82920),
-('55082', 'Stillwater', 'Minnesota', 'MN', 'Washington', 45.06140, -92.84740, 4);
+('55082', 'Stillwater', 'Minnesota', 'MN', 'Washington', 45.06140, -92.84740);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('55083', 'Stillwater', 'Minnesota', 'MN', 'Washington', 45.02100, -92.98370),
 ('55090', 'Willernie', 'Minnesota', 'MN', 'Washington', 45.05350, -92.95700),
@@ -19730,7 +19730,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('64804', 'Joplin', 'Missouri', 'MO', 'Jasper', 37.04650, -94.51030),
 ('64830', 'Alba', 'Missouri', 'MO', 'Jasper', 37.23670, -94.41800),
 ('64832', 'Asbury', 'Missouri', 'MO', 'Jasper', 37.29420, -94.56550),
-('64833', 'Avilla', 'Missouri', 'MO', 'Jasper', 37.19530, -94.12970, 4);
+('64833', 'Avilla', 'Missouri', 'MO', 'Jasper', 37.19530, -94.12970);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('64834', 'Carl Junction', 'Missouri', 'MO', 'Jasper', 37.17950, -94.55500),
 ('64835', 'Carterville', 'Missouri', 'MO', 'Jasper', 37.15070, -94.43590),
@@ -20292,7 +20292,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('64728', 'Bronaugh', 'Missouri', 'MO', 'Vernon', 37.69000, -94.48600),
 ('64741', 'Deerfield', 'Missouri', 'MO', 'Vernon', 37.81970, -94.56080),
 ('64750', 'Harwood', 'Missouri', 'MO', 'Vernon', 37.95300, -94.14020),
-('64765', 'Metz', 'Missouri', 'MO', 'Vernon', 37.99750, -94.44330, 4);
+('64765', 'Metz', 'Missouri', 'MO', 'Vernon', 37.99750, -94.44330);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('64767', 'Milo', 'Missouri', 'MO', 'Vernon', 37.74460, -94.30460),
 ('64771', 'Moundville', 'Missouri', 'MO', 'Vernon', 37.74760, -94.44960),
@@ -20840,7 +20840,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('38737', 'Drew', 'Mississippi', 'MS', 'Sunflower', 33.86700, -90.54060),
 ('38738', 'Parchman', 'Mississippi', 'MS', 'Sunflower', 33.91790, -90.49650),
 ('38749', 'Holly Ridge', 'Mississippi', 'MS', 'Sunflower', 33.44570, -90.75340),
-('38751', 'Indianola', 'Mississippi', 'MS', 'Sunflower', 33.45100, -90.65510, 4);
+('38751', 'Indianola', 'Mississippi', 'MS', 'Sunflower', 33.45100, -90.65510);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('38753', 'Inverness', 'Mississippi', 'MS', 'Sunflower', 33.34900, -90.60510),
 ('38761', 'Moorhead', 'Mississippi', 'MS', 'Sunflower', 33.47830, -90.51430),
@@ -21396,7 +21396,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('28320', 'Bladenboro', 'North Carolina', 'NC', 'Bladen', 34.56580, -78.77930),
 ('28332', 'Dublin', 'North Carolina', 'NC', 'Bladen', 34.65680, -78.72640),
 ('28337', 'Elizabethtown', 'North Carolina', 'NC', 'Bladen', 34.64710, -78.57470),
-('28392', 'Tar Heel', 'North Carolina', 'NC', 'Bladen', 34.74650, -78.81340, 4);
+('28392', 'Tar Heel', 'North Carolina', 'NC', 'Bladen', 34.74650, -78.81340);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('28399', 'White Oak', 'North Carolina', 'NC', 'Bladen', 34.76620, -78.73010),
 ('28433', 'Clarkton', 'North Carolina', 'NC', 'Bladen', 34.50300, -78.63130),
@@ -21912,7 +21912,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('28761', 'Nebo', 'North Carolina', 'NC', 'McDowell', 35.67320, -81.90560),
 ('28762', 'Old Fort', 'North Carolina', 'NC', 'McDowell', 35.61690, -82.16860),
 ('28734', 'Franklin', 'North Carolina', 'NC', 'Macon', 35.18100, -83.38850),
-('28741', 'Highlands', 'North Carolina', 'NC', 'Macon', 35.07050, -83.21600, 4);
+('28741', 'Highlands', 'North Carolina', 'NC', 'Macon', 35.07050, -83.21600);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('28744', 'Franklin', 'North Carolina', 'NC', 'Macon', 35.18230, -83.38150),
 ('28763', 'Otto', 'North Carolina', 'NC', 'Macon', 35.05150, -83.38540),
@@ -22431,7 +22431,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('58348', 'Maddock', 'North Dakota', 'ND', 'Benson', 47.96250, -99.53010),
 ('58351', 'Minnewaukan', 'North Dakota', 'ND', 'Benson', 48.06980, -99.27430),
 ('58357', 'Oberon', 'North Dakota', 'ND', 'Benson', 47.94870, -99.14010),
-('58370', 'Saint Michael', 'North Dakota', 'ND', 'Benson', 47.98500, -98.87210, 4);
+('58370', 'Saint Michael', 'North Dakota', 'ND', 'Benson', 47.98500, -98.87210);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('58379', 'Tokio', 'North Dakota', 'ND', 'Benson', 47.92470, -98.81620),
 ('58381', 'Warwick', 'North Dakota', 'ND', 'Benson', 47.89130, -98.68100),
@@ -22987,7 +22987,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('68031', 'Hooper', 'Nebraska', 'NE', 'Dodge', 41.64140, -96.52320),
 ('68044', 'Nickerson', 'Nebraska', 'NE', 'Dodge', 41.54910, -96.44410),
 ('68057', 'Scribner', 'Nebraska', 'NE', 'Dodge', 41.66300, -96.64410),
-('68063', 'Uehling', 'Nebraska', 'NE', 'Dodge', 41.73690, -96.50370, 4);
+('68063', 'Uehling', 'Nebraska', 'NE', 'Dodge', 41.73690, -96.50370);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('68072', 'Winslow', 'Nebraska', 'NE', 'Dodge', 41.61020, -96.50330),
 ('68621', 'Ames', 'Nebraska', 'NE', 'Dodge', 41.46130, -96.64630),
@@ -23541,7 +23541,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('03241', 'Hebron', 'New Hampshire', 'NH', 'Grafton County', 43.71860, -71.82700),
 ('03245', 'Holderness', 'New Hampshire', 'NH', 'Grafton County', 43.73780, -71.60440),
 ('03251', 'Lincoln', 'New Hampshire', 'NH', 'Grafton County', 44.05820, -71.67270),
-('03258', 'Chichester', 'New Hampshire', 'NH', 'Grafton County', 43.24400, -71.41050, 4);
+('03258', 'Chichester', 'New Hampshire', 'NH', 'Grafton County', 43.24400, -71.41050);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('03262', 'North Woodstock', 'New Hampshire', 'NH', 'Grafton County', 44.03540, -71.68630),
 ('03264', 'Plymouth', 'New Hampshire', 'NH', 'Grafton County', 43.75700, -71.68810),
@@ -24061,7 +24061,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('08888', 'Whitehouse', 'New Jersey', 'NJ', 'Hunterdon', 40.61940, -74.74060),
 ('08889', 'Whitehouse Station', 'New Jersey', 'NJ', 'Hunterdon', 40.61560, -74.77240),
 ('08520', 'Hightstown', 'New Jersey', 'NJ', 'Mercer', 40.26690, -74.52500),
-('08525', 'Hopewell', 'New Jersey', 'NJ', 'Mercer', 40.39020, -74.77100, 4);
+('08525', 'Hopewell', 'New Jersey', 'NJ', 'Mercer', 40.39020, -74.77100);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('08534', 'Pennington', 'New Jersey', 'NJ', 'Mercer', 40.33390, -74.79440),
 ('08540', 'Princeton', 'New Jersey', 'NJ', 'Mercer', 40.36660, -74.64080),
@@ -24600,7 +24600,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('88435', 'Santa Rosa', 'New Mexico', 'NM', 'Guadalupe', 34.85260, -104.58990),
 ('87730', 'Mills', 'New Mexico', 'NM', 'Harding', 36.12810, -104.22770),
 ('87733', 'Mosquero', 'New Mexico', 'NM', 'Harding', 35.80410, -103.90210),
-('87743', 'Roy', 'New Mexico', 'NM', 'Harding', 35.95220, -104.14970, 4);
+('87743', 'Roy', 'New Mexico', 'NM', 'Harding', 35.95220, -104.14970);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('87746', 'Solano', 'New Mexico', 'NM', 'Harding', 35.84840, -104.06750),
 ('88009', 'Playas', 'New Mexico', 'NM', 'Hidalgo', 32.05500, -108.62910),
@@ -25145,7 +25145,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('12147', 'Rensselaerville', 'New York', 'NY', 'Albany', 42.51330, -74.14740),
 ('12158', 'Selkirk', 'New York', 'NY', 'Albany', 42.54860, -73.81290),
 ('12159', 'Slingerlands', 'New York', 'NY', 'Albany', 42.64850, -73.87110),
-('12161', 'South Bethlehem', 'New York', 'NY', 'Albany', 42.53170, -73.84730, 4);
+('12161', 'South Bethlehem', 'New York', 'NY', 'Albany', 42.53170, -73.84730);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('12183', 'Troy', 'New York', 'NY', 'Albany', 42.74600, -73.69430),
 ('12186', 'Voorheesville', 'New York', 'NY', 'Albany', 42.64310, -73.94480),
@@ -25709,7 +25709,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('14036', 'Corfu', 'New York', 'NY', 'Genesee', 42.97770, -78.39290),
 ('14040', 'Darien Center', 'New York', 'NY', 'Genesee', 42.89480, -78.38780),
 ('14054', 'East Bethany', 'New York', 'NY', 'Genesee', 42.91660, -78.13420),
-('14056', 'East Pembroke', 'New York', 'NY', 'Genesee', 42.99120, -78.31220, 4);
+('14056', 'East Pembroke', 'New York', 'NY', 'Genesee', 42.99120, -78.31220);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('14058', 'Elba', 'New York', 'NY', 'Genesee', 43.08970, -78.17040),
 ('14125', 'Oakfield', 'New York', 'NY', 'Genesee', 43.07170, -78.27020),
@@ -26250,7 +26250,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('10286', 'New York City', 'New York', 'NY', 'New York County', 40.71420, -74.01190),
 ('14008', 'Appleton', 'New York', 'NY', 'Niagara', 43.31050, -78.63720),
 ('14012', 'Barker', 'New York', 'NY', 'Niagara', 43.33680, -78.54200),
-('14028', 'Burt', 'New York', 'NY', 'Niagara', 43.32210, -78.71410, 4);
+('14028', 'Burt', 'New York', 'NY', 'Niagara', 43.32210, -78.71410);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('14067', 'Gasport', 'New York', 'NY', 'Niagara', 43.21060, -78.57450),
 ('14092', 'Lewiston', 'New York', 'NY', 'Niagara', 43.17220, -79.02150),
@@ -26794,7 +26794,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('12149', 'Richmondville', 'New York', 'NY', 'Schoharie', 42.64240, -74.57100),
 ('12157', 'Schoharie', 'New York', 'NY', 'Schoharie', 42.66150, -74.30470),
 ('12160', 'Sloansville', 'New York', 'NY', 'Schoharie', 42.75990, -74.36420),
-('12175', 'Summit', 'New York', 'NY', 'Schoharie', 42.53500, -74.54520, 4);
+('12175', 'Summit', 'New York', 'NY', 'Schoharie', 42.53500, -74.54520);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('12187', 'Warnerville', 'New York', 'NY', 'Schoharie', 42.59230, -74.43810),
 ('12194', 'West Fulton', 'New York', 'NY', 'Schoharie', 42.55060, -74.46310),
@@ -27352,7 +27352,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('45806', 'Lima', 'Ohio', 'OH', 'Auglaize', 40.67520, -84.12440),
 ('45819', 'Buckland', 'Ohio', 'OH', 'Auglaize', 40.62410, -84.26030),
 ('45865', 'Minster', 'Ohio', 'OH', 'Auglaize', 40.39100, -84.37290),
-('45869', 'New Bremen', 'Ohio', 'OH', 'Auglaize', 40.43890, -84.38210, 4);
+('45869', 'New Bremen', 'Ohio', 'OH', 'Auglaize', 40.43890, -84.38210);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('45870', 'New Hampshire', 'Ohio', 'OH', 'Auglaize', 40.55630, -83.95140),
 ('45871', 'New Knoxville', 'Ohio', 'OH', 'Auglaize', 40.50390, -84.31180),
@@ -27925,7 +27925,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('45640', 'Jackson', 'Ohio', 'OH', 'Jackson', 39.04280, -82.64720),
 ('45656', 'Oak Hill', 'Ohio', 'OH', 'Jackson', 38.89160, -82.58830),
 ('45692', 'Wellston', 'Ohio', 'OH', 'Jackson', 39.11890, -82.54850),
-('43901', 'Adena', 'Ohio', 'OH', 'Jefferson', 40.21260, -80.88150, 4);
+('43901', 'Adena', 'Ohio', 'OH', 'Jefferson', 40.21260, -80.88150);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('43903', 'Amsterdam', 'Ohio', 'OH', 'Jefferson', 40.47310, -80.95960),
 ('43908', 'Bergholz', 'Ohio', 'OH', 'Jefferson', 40.51950, -80.88400),
@@ -28520,7 +28520,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('44320', 'Akron', 'Ohio', 'OH', 'Summit', 41.08350, -81.56740),
 ('44321', 'Akron', 'Ohio', 'OH', 'Summit', 41.10020, -81.64430),
 ('44325', 'Akron', 'Ohio', 'OH', 'Summit', 41.07640, -81.51030),
-('44326', 'Akron', 'Ohio', 'OH', 'Summit', 41.08140, -81.51900, 4);
+('44326', 'Akron', 'Ohio', 'OH', 'Summit', 41.08140, -81.51900);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('44328', 'Akron', 'Ohio', 'OH', 'Summit', 41.07600, -81.52060),
 ('44333', 'Akron', 'Ohio', 'OH', 'Summit', 41.15520, -81.63140),
@@ -29100,7 +29100,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('74365', 'Salina', 'Oklahoma', 'OK', 'Mayes', 36.31160, -95.11580),
 ('74366', 'Spavinaw', 'Oklahoma', 'OK', 'Mayes', 36.39120, -95.04660),
 ('74367', 'Strang', 'Oklahoma', 'OK', 'Mayes', 36.41410, -95.07730),
-('73030', 'Davis', 'Oklahoma', 'OK', 'Murray', 34.49530, -97.10840, 4);
+('73030', 'Davis', 'Oklahoma', 'OK', 'Murray', 34.49530, -97.10840);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('73032', 'Dougherty', 'Oklahoma', 'OK', 'Murray', 34.40200, -97.05100),
 ('73086', 'Sulphur', 'Oklahoma', 'OK', 'Murray', 34.51160, -96.97970),
@@ -29659,7 +29659,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('97733', 'Crescent', 'Oregon', 'OR', 'Klamath', 43.44420, -121.71090),
 ('97737', 'Gilchrist', 'Oregon', 'OR', 'Klamath', 43.37250, -121.65830),
 ('97620', 'Adel', 'Oregon', 'OR', 'Lake', 42.14870, -119.88330),
-('97630', 'Lakeview', 'Oregon', 'OR', 'Lake', 42.18540, -120.37750, 4);
+('97630', 'Lakeview', 'Oregon', 'OR', 'Lake', 42.18540, -120.37750);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('97635', 'New Pine Creek', 'Oregon', 'OR', 'Lake', 41.99410, -120.29720),
 ('97636', 'Paisley', 'Oregon', 'OR', 'Lake', 42.70310, -120.55320),
@@ -30189,7 +30189,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('19516', 'Centerport', 'Pennsylvania', 'PA', 'Berks', 40.48580, -76.00600),
 ('19518', 'Douglassville', 'Pennsylvania', 'PA', 'Berks', 40.27090, -75.73970),
 ('19519', 'Earlville', 'Pennsylvania', 'PA', 'Berks', 40.31900, -75.73340),
-('19522', 'Fleetwood', 'Pennsylvania', 'PA', 'Berks', 40.44730, -75.81850, 4);
+('19522', 'Fleetwood', 'Pennsylvania', 'PA', 'Berks', 40.44730, -75.81850);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('19523', 'Geigertown', 'Pennsylvania', 'PA', 'Berks', 40.18970, -75.88810),
 ('19526', 'Hamburg', 'Pennsylvania', 'PA', 'Berks', 40.54880, -75.98740),
@@ -30719,7 +30719,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('17125', 'Harrisburg', 'Pennsylvania', 'PA', 'Dauphin', 40.26620, -76.88290),
 ('17126', 'Harrisburg', 'Pennsylvania', 'PA', 'Dauphin', 40.26180, -76.88000),
 ('17127', 'Harrisburg', 'Pennsylvania', 'PA', 'Dauphin', 40.26150, -76.88090),
-('17128', 'Harrisburg', 'Pennsylvania', 'PA', 'Dauphin', 40.27370, -76.88440, 4);
+('17128', 'Harrisburg', 'Pennsylvania', 'PA', 'Dauphin', 40.27370, -76.88440);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('17129', 'Harrisburg', 'Pennsylvania', 'PA', 'Dauphin', 40.26150, -76.88090),
 ('17130', 'Harrisburg', 'Pennsylvania', 'PA', 'Dauphin', 40.27020, -76.88290),
@@ -31246,7 +31246,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('18087', 'Trexlertown', 'Pennsylvania', 'PA', 'Lehigh', 40.54820, -75.59610),
 ('18092', 'Zionsville', 'Pennsylvania', 'PA', 'Lehigh', 40.47340, -75.52610),
 ('18098', 'Emmaus', 'Pennsylvania', 'PA', 'Lehigh', 40.53950, -75.49690),
-('18099', 'Emmaus', 'Pennsylvania', 'PA', 'Lehigh', 40.53950, -75.49690, 4);
+('18099', 'Emmaus', 'Pennsylvania', 'PA', 'Lehigh', 40.53950, -75.49690);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('18101', 'Allentown', 'Pennsylvania', 'PA', 'Lehigh', 40.60260, -75.46910),
 ('18102', 'Allentown', 'Pennsylvania', 'PA', 'Lehigh', 40.60680, -75.47810),
@@ -31751,7 +31751,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('17843', 'Beaver Springs', 'Pennsylvania', 'PA', 'Snyder', 40.74620, -77.20940),
 ('17853', 'Mount Pleasant Mills', 'Pennsylvania', 'PA', 'Snyder', 40.72370, -77.01350),
 ('17861', 'Paxtonville', 'Pennsylvania', 'PA', 'Snyder', 40.77250, -77.08330),
-('17862', 'Penns Creek', 'Pennsylvania', 'PA', 'Snyder', 40.85980, -77.05530, 4);
+('17862', 'Penns Creek', 'Pennsylvania', 'PA', 'Snyder', 40.85980, -77.05530);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('17864', 'Port Trevorton', 'Pennsylvania', 'PA', 'Snyder', 40.69960, -76.90820),
 ('17870', 'Selinsgrove', 'Pennsylvania', 'PA', 'Snyder', 40.82240, -76.86830),
@@ -32277,7 +32277,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('29853', 'Williston', 'South Carolina', 'SC', 'Barnwell', 33.39260, -81.41610),
 ('29901', 'Beaufort', 'South Carolina', 'SC', 'Beaufort', 32.42440, -80.56530),
 ('29902', 'Beaufort', 'South Carolina', 'SC', 'Beaufort', 32.43160, -80.66980),
-('29903', 'Beaufort', 'South Carolina', 'SC', 'Beaufort', 32.44400, -80.73520, 4);
+('29903', 'Beaufort', 'South Carolina', 'SC', 'Beaufort', 32.44400, -80.73520);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('29904', 'Beaufort', 'South Carolina', 'SC', 'Beaufort', 32.39060, -80.66100),
 ('29905', 'Beaufort', 'South Carolina', 'SC', 'Beaufort', 32.34010, -80.68900),
@@ -32797,7 +32797,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('57326', 'Chamberlain', 'South Dakota', 'SD', 'Brule', 43.81080, -99.33070),
 ('57355', 'Kimball', 'South Dakota', 'SD', 'Brule', 43.74670, -98.95840),
 ('57370', 'Pukwana', 'South Dakota', 'SD', 'Brule', 43.77830, -99.17790),
-('57339', 'Fort Thompson', 'South Dakota', 'SD', 'Buffalo', 44.05170, -99.39730, 4);
+('57339', 'Fort Thompson', 'South Dakota', 'SD', 'Buffalo', 44.05170, -99.39730);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('57341', 'Gann Valley', 'South Dakota', 'SD', 'Buffalo', 44.06930, -99.05430),
 ('57717', 'Belle Fourche', 'South Dakota', 'SD', 'Butte', 44.67230, -103.83960),
@@ -33343,7 +33343,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('38076', 'Williston', 'Tennessee', 'TN', 'Fayette', 35.15760, -89.36840),
 ('38504', 'Allardt', 'Tennessee', 'TN', 'Fentress', 36.38180, -84.77560),
 ('38553', 'Clarkrange', 'Tennessee', 'TN', 'Fentress', 36.21120, -84.97770),
-('38556', 'Jamestown', 'Tennessee', 'TN', 'Fentress', 36.42450, -84.93570, 4);
+('38556', 'Jamestown', 'Tennessee', 'TN', 'Fentress', 36.42450, -84.93570);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('38565', 'Grimsley', 'Tennessee', 'TN', 'Fentress', 36.25980, -85.00150),
 ('38577', 'Pall Mall', 'Tennessee', 'TN', 'Fentress', 36.57810, -85.03840),
@@ -33892,7 +33892,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('38452', 'Cypress Inn', 'Tennessee', 'TN', 'Wayne', 35.05790, -87.78830),
 ('38471', 'Lutts', 'Tennessee', 'TN', 'Wayne', 35.11380, -87.89230),
 ('38485', 'Waynesboro', 'Tennessee', 'TN', 'Wayne', 35.32200, -87.73950),
-('38225', 'Dresden', 'Tennessee', 'TN', 'Weakley', 36.29500, -88.69630, 4);
+('38225', 'Dresden', 'Tennessee', 'TN', 'Weakley', 36.29500, -88.69630);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('38226', 'Dukedom', 'Tennessee', 'TN', 'Weakley', 36.47960, -88.69260),
 ('38229', 'Gleason', 'Tennessee', 'TN', 'Weakley', 36.21170, -88.61840),
@@ -34474,7 +34474,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('75205', 'Dallas', 'Texas', 'TX', 'Dallas County', 32.82600, -96.78430),
 ('75206', 'Dallas', 'Texas', 'TX', 'Dallas County', 32.83100, -96.76920),
 ('75207', 'Dallas', 'Texas', 'TX', 'Dallas County', 32.79390, -96.83190),
-('75208', 'Dallas', 'Texas', 'TX', 'Dallas County', 32.74920, -96.83890, 4);
+('75208', 'Dallas', 'Texas', 'TX', 'Dallas County', 32.74920, -96.83890);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('75209', 'Dallas', 'Texas', 'TX', 'Dallas County', 32.84560, -96.82600),
 ('75210', 'Dallas', 'Texas', 'TX', 'Dallas County', 32.76990, -96.74300),
@@ -35058,7 +35058,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('77017', 'Houston', 'Texas', 'TX', 'Harris', 29.68630, -95.25550),
 ('77018', 'Houston', 'Texas', 'TX', 'Harris', 29.82720, -95.42660),
 ('77019', 'Houston', 'Texas', 'TX', 'Harris', 29.75170, -95.40540),
-('77020', 'Houston', 'Texas', 'TX', 'Harris', 29.77580, -95.31210, 4);
+('77020', 'Houston', 'Texas', 'TX', 'Harris', 29.77580, -95.31210);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('77021', 'Houston', 'Texas', 'TX', 'Harris', 29.69540, -95.35620),
 ('77022', 'Houston', 'Texas', 'TX', 'Harris', 29.82990, -95.37690),
@@ -35650,7 +35650,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('76836', 'Doole', 'Texas', 'TX', 'McCulloch', 31.39570, -99.59900),
 ('76852', 'Lohn', 'Texas', 'TX', 'McCulloch', 31.31730, -99.38330),
 ('76858', 'Melvin', 'Texas', 'TX', 'McCulloch', 31.19520, -99.57980),
-('76872', 'Rochelle', 'Texas', 'TX', 'McCulloch', 31.30000, -99.15720, 4);
+('76872', 'Rochelle', 'Texas', 'TX', 'McCulloch', 31.30000, -99.15720);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('76887', 'Voca', 'Texas', 'TX', 'McCulloch', 30.99590, -99.16820),
 ('76524', 'Eddy', 'Texas', 'TX', 'McLennan', 31.30880, -97.27740),
@@ -36227,7 +36227,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('76483', 'Throckmorton', 'Texas', 'TX', 'Throckmorton', 33.17940, -99.18380),
 ('76491', 'Woodson', 'Texas', 'TX', 'Throckmorton', 33.07410, -99.05460),
 ('75455', 'Mount Pleasant', 'Texas', 'TX', 'Titus', 33.17330, -94.96950),
-('75456', 'Mount Pleasant', 'Texas', 'TX', 'Titus', 33.15680, -94.96830, 4);
+('75456', 'Mount Pleasant', 'Texas', 'TX', 'Titus', 33.15680, -94.96830);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('75493', 'Winfield', 'Texas', 'TX', 'Titus', 33.16730, -95.11190),
 ('75558', 'Cookville', 'Texas', 'TX', 'Titus', 33.24320, -94.87470),
@@ -36796,7 +36796,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('84076', 'Tridell', 'Utah', 'UT', 'Uintah', 40.44360, -109.83590),
 ('84078', 'Vernal', 'Utah', 'UT', 'Uintah', 40.44060, -109.54690),
 ('84079', 'Vernal', 'Utah', 'UT', 'Uintah', 40.45550, -109.52870),
-('84085', 'Whiterocks', 'Utah', 'UT', 'Uintah', 40.46800, -109.93070, 4);
+('84085', 'Whiterocks', 'Utah', 'UT', 'Uintah', 40.46800, -109.93070);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('84003', 'American Fork', 'Utah', 'UT', 'Utah County', 40.39280, -111.79410),
 ('84004', 'Alpine', 'Utah', 'UT', 'Utah County', 40.46160, -111.76890),
@@ -37349,7 +37349,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('23116', 'Mechanicsville', 'Virginia', 'VA', 'Hanover', 37.66910, -77.32940),
 ('23146', 'Rockville', 'Virginia', 'VA', 'Hanover', 37.73370, -77.70000),
 ('23162', 'Studley', 'Virginia', 'VA', 'Hanover', 37.67570, -77.29080),
-('23192', 'Montpelier', 'Virginia', 'VA', 'Hanover', 37.81770, -77.69240, 4);
+('23192', 'Montpelier', 'Virginia', 'VA', 'Hanover', 37.81770, -77.69240);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('23058', 'Glen Allen', 'Virginia', 'VA', 'Henrico', 37.53130, -77.41610),
 ('23060', 'Glen Allen', 'Virginia', 'VA', 'Henrico', 37.66280, -77.53400),
@@ -37892,7 +37892,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('22038', 'Fairfax', 'Virginia', 'VA', 'Fairfax (city)', 38.85280, -77.30200),
 ('22040', 'Falls Church', 'Virginia', 'VA', 'Falls Church (city)', 38.88420, -77.17180),
 ('22046', 'Falls Church', 'Virginia', 'VA', 'Falls Church (city)', 38.88560, -77.18020),
-('23851', 'Franklin', 'Virginia', 'VA', 'Franklin (city)', 36.67860, -76.93910, 4);
+('23851', 'Franklin', 'Virginia', 'VA', 'Franklin (city)', 36.67860, -76.93910);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('22401', 'Fredericksburg', 'Virginia', 'VA', 'Fredericksburg (city)', 38.29950, -77.47720),
 ('22402', 'Fredericksburg', 'Virginia', 'VA', 'Fredericksburg (city)', 38.29960, -77.48970),
@@ -38426,7 +38426,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('98836', 'Monitor', 'Washington', 'WA', 'Chelan', 47.48520, -120.41580),
 ('98847', 'Peshastin', 'Washington', 'WA', 'Chelan', 47.54580, -120.59610),
 ('98852', 'Stehekin', 'Washington', 'WA', 'Chelan', 48.30930, -120.65650),
-('98305', 'Beaver', 'Washington', 'WA', 'Clallam', 48.06730, -124.30540, 4);
+('98305', 'Beaver', 'Washington', 'WA', 'Clallam', 48.06730, -124.30540);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('98324', 'Carlsborg', 'Washington', 'WA', 'Clallam', 48.09060, -123.17210),
 ('98326', 'Clallam Bay', 'Washington', 'WA', 'Clallam', 48.22550, -124.20150),
@@ -38960,7 +38960,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('99023', 'Mica', 'Washington', 'WA', 'Spokane', 47.55380, -117.16370),
 ('99025', 'Newman Lake', 'Washington', 'WA', 'Spokane', 47.72740, -117.06400),
 ('99026', 'Nine Mile Falls', 'Washington', 'WA', 'Spokane', 47.80190, -117.58940),
-('99027', 'Otis Orchards', 'Washington', 'WA', 'Spokane', 47.70270, -117.11210, 4);
+('99027', 'Otis Orchards', 'Washington', 'WA', 'Spokane', 47.70270, -117.11210);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('99029', 'Reardan', 'Washington', 'WA', 'Spokane', 47.70540, -117.86630),
 ('99030', 'Rockford', 'Washington', 'WA', 'Spokane', 47.45280, -117.13180),
@@ -39513,7 +39513,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('54428', 'Elcho', 'Wisconsin', 'WI', 'Langlade', 45.44090, -89.15160),
 ('54430', 'Elton', 'Wisconsin', 'WI', 'Langlade', 45.15620, -88.88370),
 ('54462', 'Pearson', 'Wisconsin', 'WI', 'Langlade', 45.36410, -89.01650),
-('54464', 'Phlox', 'Wisconsin', 'WI', 'Langlade', 45.05110, -89.01430, 4);
+('54464', 'Phlox', 'Wisconsin', 'WI', 'Langlade', 45.05110, -89.01430);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('54465', 'Pickerel', 'Wisconsin', 'WI', 'Langlade', 45.35670, -88.91370),
 ('54485', 'Summit Lake', 'Wisconsin', 'WI', 'Langlade', 45.39650, -89.21790),
@@ -40064,7 +40064,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('26623', 'Frametown', 'West Virginia', 'WV', 'Braxton', 38.63050, -80.85890),
 ('26624', 'Gassaway', 'West Virginia', 'WV', 'Braxton', 38.68620, -80.78630),
 ('26627', 'Heaters', 'West Virginia', 'WV', 'Braxton', 38.76210, -80.64060),
-('26629', 'Little Birch', 'West Virginia', 'WV', 'Braxton', 38.58100, -80.69310, 4);
+('26629', 'Little Birch', 'West Virginia', 'WV', 'Braxton', 38.58100, -80.69310);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('26631', 'Napier', 'West Virginia', 'WV', 'Braxton', 38.79090, -80.58870),
 ('26030', 'Beech Bottom', 'West Virginia', 'WV', 'Brooke', 40.22590, -80.65130),
@@ -40599,7 +40599,7 @@ INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "lati
 ('26679', 'Mount Nebo', 'West Virginia', 'WV', 'Nicholas', 38.16530, -80.79760),
 ('26681', 'Nettie', 'West Virginia', 'WV', 'Nicholas', 38.20900, -80.69530),
 ('26684', 'Pool', 'West Virginia', 'WV', 'Nicholas', 38.16370, -80.86430),
-('26690', 'Swiss', 'West Virginia', 'WV', 'Nicholas', 38.22550, -81.12730, 4);
+('26690', 'Swiss', 'West Virginia', 'WV', 'Nicholas', 38.22550, -81.12730);
 INSERT INTO "us" ("zipcode", "city", "state", "state_code", "county_area", "latitude", "longitude") VALUES
 ('26691', 'Tioga', 'West Virginia', 'WV', 'Nicholas', 38.40450, -80.66670),
 ('26003', 'Wheeling', 'West Virginia', 'WV', 'Ohio', 40.10270, -80.64760),
